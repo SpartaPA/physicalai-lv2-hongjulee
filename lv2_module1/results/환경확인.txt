@@ -1,0 +1,5 @@
+
+라즈베리파이 호스트명: pa11
+Ubuntu 버전: Ubuntu 22.04.5 LTS (GNU/Linux 5.15.0-1061-raspi aarch64)
+아키텍처: Arduino OpenCR 1.5.3 ARM Cortex-M7
+사용 포트: /dev/ttyACM0
