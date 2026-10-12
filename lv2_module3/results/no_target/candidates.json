@@ -1,0 +1,29 @@
+{
+  "stamp_ns": 1791422648795765549,
+  "config": "results/no_target/config_applied.yaml",
+  "hsv_ranges": [
+    {
+      "lower": [
+        104,
+        200,
+        8
+      ],
+      "upper": [
+        120,
+        255,
+        255
+      ]
+    }
+  ],
+  "min_area_px": 60,
+  "tracking_uniform": {
+    "min_fill": 0.9,
+    "min_v": 30,
+    "min_s": 235
+  },
+  "mask_foreground_px_recomputed": 0,
+  "detector_selected_bbox": null,
+  "raw_png_md5": "41a7174cc8e60a0ccc63646c282ad891",
+  "mask_png_md5": "7e5820506c4e6511d5e680694e9a4c6f",
+  "candidates": []
+}

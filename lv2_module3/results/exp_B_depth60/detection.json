@@ -1,0 +1,23 @@
+{
+  "stamp_ns": 1791422037907332045,
+  "mask_encoding": "mono8",
+  "mask_size": "640x360",
+  "mask_foreground_px": 262,
+  "overlay_encoding": "rgb8",
+  "overlay_size": "640x360",
+  "target_x": -0.04830515710382528,
+  "target_y": 0.005479659987856659,
+  "target_z": 0.000993923611111111,
+  "status": "OK",
+  "bbox": "299,169,310,193",
+  "raw_encoding": "rgb8",
+  "raw_size": "640x360",
+  "topics_received": [
+    "bbox",
+    "depth",
+    "mask",
+    "overlay",
+    "raw",
+    "target"
+  ]
+}

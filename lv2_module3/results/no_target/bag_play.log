@@ -1,0 +1,261 @@
+stdin is not a terminal device. Keyboard handling disabled.[INFO] [1791791282.987425745] [rosbag2_player]: Set rate to 0.25
+[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422642.485107899] Duration 0.00/29.48 [R]
+[4A[INFO] [1791791282.988250253] [rosbag2_player]: Overriding QoS profile for topic /camera/color/camera_info
+[INFO] [1791791282.989177037] [rosbag2_player]: Overriding QoS profile for topic /camera/aligned_depth_to_color/image_raw
+[INFO] [1791791282.989362396] [rosbag2_player]: Overriding QoS profile for topic /camera/color/image_raw
+[INFO] [1791791282.991101405] [rosbag2_player]: Adding keyboard callbacks.
+[INFO] [1791791282.991117928] [rosbag2_player]: Press SPACE for Pause/Resume
+[INFO] [1791791282.991121885] [rosbag2_player]: Press CURSOR_RIGHT for Play Next Message
+[INFO] [1791791282.991124588] [rosbag2_player]: Press CURSOR_UP for Increase Rate 10%
+[INFO] [1791791282.991127022] [rosbag2_player]: Press CURSOR_DOWN for Decrease Rate 10%
+Progress bar enabled at 3 Hz.
+Progress bar [?]: [R]unning, [P]aused, [B]urst, [D]elayed, [S]topped
+[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422642.485107899] Duration 0.00/29.48 [S]
+[4A[INFO] [1791791282.992300105] [rosbag2_player]: Playback until timestamp: 1791422649485107896
+[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422642.485107899] Duration 0.00/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422644.279836178] Duration 1.79/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422644.377739191] Duration 1.89/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422644.463002443] Duration 1.98/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422644.561226130] Duration 2.08/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422644.645287275] Duration 2.16/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422644.734998226] Duration 2.25/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422644.829144239] Duration 2.34/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422644.912982702] Duration 2.43/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422644.998951435] Duration 2.51/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422645.098350286] Duration 2.61/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422645.199939728] Duration 2.71/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422645.299543858] Duration 2.81/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422645.386548042] Duration 2.90/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422645.475863695] Duration 2.99/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422645.562404394] Duration 3.08/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422645.663260460] Duration 3.18/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422645.762705564] Duration 3.28/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422645.864192724] Duration 3.38/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422645.947928667] Duration 3.46/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422646.057162046] Duration 3.57/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422646.144512653] Duration 3.66/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422646.238856792] Duration 3.75/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422646.325490713] Duration 3.84/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422646.410920143] Duration 3.93/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422646.516967535] Duration 4.03/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422646.604126692] Duration 4.12/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422646.698675156] Duration 4.21/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422646.798197269] Duration 4.31/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422646.883769751] Duration 4.40/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422646.970330954] Duration 4.49/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422647.065198898] Duration 4.58/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422647.150043726] Duration 4.66/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422647.240708590] Duration 4.76/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422647.361880064] Duration 4.88/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422647.504099846] Duration 5.02/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422647.606636286] Duration 5.12/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422647.695177555] Duration 5.21/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422647.785444260] Duration 5.30/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422647.870860338] Duration 5.39/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422647.955184937] Duration 5.47/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422648.050743580] Duration 5.57/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422648.141199827] Duration 5.66/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422648.244790316] Duration 5.76/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422648.332529306] Duration 5.85/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422648.430974722] Duration 5.95/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422648.515784740] Duration 6.03/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422648.623722076] Duration 6.14/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422648.711094379] Duration 6.23/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422648.801953554] Duration 6.32/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422648.897327662] Duration 6.41/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422649.005023479] Duration 6.52/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422649.093702793] Duration 6.61/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422649.183948278] Duration 6.70/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422649.282016993] Duration 6.80/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422649.375792742] Duration 6.89/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422649.473953247] Duration 6.99/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422649.473953247] Duration 6.99/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422649.473953247] Duration 6.99/29.48 [R]
+[4A[2K
+[2K
+[2K====== Playback Progress ======
+[2K[1791422649.473953247] Duration 6.99/29.48 [R]
+[4A[4B

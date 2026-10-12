@@ -1,0 +1,2 @@
+[INFO] [1791766525.274876331] [rviz_node]: RViz outputs: /tracking/image, /tracking/image_plane, /target_marker, /camera/pose
+[ros2run]: Received signal:  Interrupt

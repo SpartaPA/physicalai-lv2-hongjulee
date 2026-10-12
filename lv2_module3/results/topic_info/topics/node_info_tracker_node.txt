@@ -1,0 +1,29 @@
+/tracker_node
+  Subscribers:
+    /camera/aligned_depth_to_color/image_raw: sensor_msgs/msg/Image
+    /camera/color/camera_info: sensor_msgs/msg/CameraInfo
+    /camera/color/image_raw: sensor_msgs/msg/Image
+    /clock: rosgraph_msgs/msg/Clock
+    /joint_states: sensor_msgs/msg/JointState
+  Publishers:
+    /cmd_vel: geometry_msgs/msg/Twist
+    /parameter_events: rcl_interfaces/msg/ParameterEvent
+    /perception_status: std_msgs/msg/String
+    /rosout: rcl_interfaces/msg/Log
+    /target: geometry_msgs/msg/PointStamped
+    /tracking/bbox: geometry_msgs/msg/PolygonStamped
+    /tracking/mask: sensor_msgs/msg/Image
+  Service Servers:
+    /tracker_node/describe_parameters: rcl_interfaces/srv/DescribeParameters
+    /tracker_node/get_parameter_types: rcl_interfaces/srv/GetParameterTypes
+    /tracker_node/get_parameters: rcl_interfaces/srv/GetParameters
+    /tracker_node/get_type_description: type_description_interfaces/srv/GetTypeDescription
+    /tracker_node/list_parameters: rcl_interfaces/srv/ListParameters
+    /tracker_node/set_parameters: rcl_interfaces/srv/SetParameters
+    /tracker_node/set_parameters_atomically: rcl_interfaces/srv/SetParametersAtomically
+  Service Clients:
+
+  Action Servers:
+
+  Action Clients:
+

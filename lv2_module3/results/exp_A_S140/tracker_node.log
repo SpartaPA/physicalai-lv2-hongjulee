@@ -1,0 +1,4 @@
+[INFO] [1791766566.236390979] [tracker_node]: Detector config /home/pa8/git/physicalai-lv2-hongjulee/lv2_module3/results/configs/exp1_B_s140.yaml: HSV [{'lower': [104, 140, 8], 'upper': [120, 255, 255]}], min_area 57 px, depth 0.1-1.1 m, CSRT on
+[INFO] [1791766566.237086552] [tracker_node]: Waiting for synchronized RGB and aligned depth images.
+[INFO] [1791766573.680953521] [tracker_node]: Camera focal length fx=454.5 fy=454.5 px; min_area 55 px, max_area_ratio 0.6
+[ros2run]: Received signal:  Interrupt

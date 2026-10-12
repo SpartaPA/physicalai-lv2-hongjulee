@@ -1,0 +1,59 @@
+{
+  "stamp_ns": 1791422037907332045,
+  "config": "results/exp1_A/config_applied.yaml",
+  "hsv_ranges": [
+    {
+      "lower": [
+        104,
+        200,
+        8
+      ],
+      "upper": [
+        120,
+        255,
+        255
+      ]
+    }
+  ],
+  "min_area_px": 60,
+  "tracking_uniform": {
+    "min_fill": 0.9,
+    "min_v": 30,
+    "min_s": 235
+  },
+  "mask_foreground_px_recomputed": 262,
+  "detector_selected_bbox": [
+    299,
+    169,
+    12,
+    25
+  ],
+  "raw_png_md5": "e497bcf91131190683a77b0e5249752a",
+  "mask_png_md5": "e838885e42349c570c72ada4a7fa1815",
+  "candidates": [
+    {
+      "bbox_xywh": [
+        299,
+        169,
+        12,
+        25
+      ],
+      "area_px": 229.0,
+      "reason": "ok",
+      "detector_accepted": true,
+      "depth_m": 1.021,
+      "size_cm": [
+        2.4,
+        5.5
+      ],
+      "area_cm2": 11.6,
+      "solidity": 0.939,
+      "split": false,
+      "partial": null,
+      "fill": 1.0,
+      "S_median": 242,
+      "V_median": 138,
+      "tracker_uniform_pass": true
+    }
+  ]
+}

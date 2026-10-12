@@ -1,0 +1,35 @@
+/rosbag2_player
+  Subscribers:
+
+  Publishers:
+    /camera/aligned_depth_to_color/image_raw: sensor_msgs/msg/Image
+    /camera/color/camera_info: sensor_msgs/msg/CameraInfo
+    /camera/color/image_raw: sensor_msgs/msg/Image
+    /events/read_split: rosbag2_interfaces/msg/ReadSplitEvent
+    /parameter_events: rcl_interfaces/msg/ParameterEvent
+    /rosout: rcl_interfaces/msg/Log
+  Service Servers:
+    /rosbag2_player/burst: rosbag2_interfaces/srv/Burst
+    /rosbag2_player/describe_parameters: rcl_interfaces/srv/DescribeParameters
+    /rosbag2_player/get_parameter_types: rcl_interfaces/srv/GetParameterTypes
+    /rosbag2_player/get_parameters: rcl_interfaces/srv/GetParameters
+    /rosbag2_player/get_rate: rosbag2_interfaces/srv/GetRate
+    /rosbag2_player/get_type_description: type_description_interfaces/srv/GetTypeDescription
+    /rosbag2_player/is_paused: rosbag2_interfaces/srv/IsPaused
+    /rosbag2_player/list_parameters: rcl_interfaces/srv/ListParameters
+    /rosbag2_player/pause: rosbag2_interfaces/srv/Pause
+    /rosbag2_player/play: rosbag2_interfaces/srv/Play
+    /rosbag2_player/play_next: rosbag2_interfaces/srv/PlayNext
+    /rosbag2_player/resume: rosbag2_interfaces/srv/Resume
+    /rosbag2_player/seek: rosbag2_interfaces/srv/Seek
+    /rosbag2_player/set_parameters: rcl_interfaces/srv/SetParameters
+    /rosbag2_player/set_parameters_atomically: rcl_interfaces/srv/SetParametersAtomically
+    /rosbag2_player/set_rate: rosbag2_interfaces/srv/SetRate
+    /rosbag2_player/stop: rosbag2_interfaces/srv/Stop
+    /rosbag2_player/toggle_paused: rosbag2_interfaces/srv/TogglePaused
+  Service Clients:
+
+  Action Servers:
+
+  Action Clients:
+
